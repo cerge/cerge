@@ -1,3 +1,54 @@
+# Hello, I'm Cristian Gaitano Ornia 👨‍💻
+
+### **Full Stack Developer + QA Automation Engineer**  
+📍 Rosario, Argentina · 🌍 Global Remote Worker  
+
+🔗 [LinkedIn](linkedin.com/in/cerge) · ✉️ [Email](mailto:cerge74@gmail.com) · 📱 [WhatsApp](https://wa.me/543416018226)  
+
+---
+
+## **👨‍💻 About Me**  
+
+- 💡 **20+ years of experience** in full-stack development and QA automation  
+- 🚀 Specialized in: **Laravel, Angular, Karate/Playwright**  
+- 📊 Passionate about **process optimization** and reducing critical production errors  
+- ✨ **Mentorship**: I guide junior developers to elevate quality standards  
+
+---
+
+## **🛠 Tech Stack**  
+**Languages & Frameworks**:  
+`PHP` `Laravel` `Angular` `Ionic` `Node.js` `Java` `REST APIs`  
+
+**QA & Automation**:  
+`Karate` `Playwright` `Postman` `SoapUI` `Agile/SCRUM`  
+
+**Tools**:  
+`Git` `MySQL` `WordPress` `Figma` `Docker` (learning)  
+
+---
+
+## **🌟 Passions**  
+📚 **Avid Bibliophile**: Maintain **3 personal libraries** (and counting!). Love reading about history, tech, and writing essays.  
+🪙 **Numismatics**: Collector of ancient coins (my favorite: a Roman denarius!)  
+🏛 **Ancient History**: Obsessed with Rome, Greece, and Egypt.  
+🎨 **Art**: From Renaissance to modern digital art.  
+
+---
+
+## **🌱 Currently Learning**  
+- **Telegram bot development** with Python  
+- **Docker/Kubernetes** for orchestration  
+- **Hexagonal Architecture** in PHP  
+- **Byzantine Art History** (as hobby)  
+
+---
+
+## **📬 Let's Connect!**  
+Let's talk tech, books, or ancient coins!  
+🔗 **Connect on**: [LinkedIn](linkedin.com/in/cerge)  
+✉️ **Email**: cerge74@gmail.com  
+
 # Hola, soy Cristian Gaitano Ornia 👨‍💻
 
 ### **Full Stack Developer + QA Automation Engineer**  
@@ -44,5 +95,3 @@
 
 ---
  
-
--->
