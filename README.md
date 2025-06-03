@@ -18,13 +18,13 @@
 
 ## **🛠 Tech Stack**  
 **Languages & Frameworks**:  
-`PHP` `Laravel` `Angular` `Ionic` `Node.js` `Java` `REST APIs`  
+`PHP` `Laravel` `Angular` `Ionic` `Node.js` `REST APIs`  
 
 **QA & Automation**:  
 `Karate` `Playwright` `Postman` `SoapUI` `Agile/SCRUM`  
 
 **Tools**:  
-`Git` `MySQL` `WordPress` `Figma` `Docker` (learning)  
+`Git` `MySQL` `WordPress` 
 
 ---
 
@@ -69,13 +69,13 @@ Let's talk tech, books, or ancient coins!
 
 ## **🛠 Tech Stack**  
 **Lenguajes & Frameworks**:  
-`PHP` `Laravel` `Angular` `Ionic` `Node.js` `Java` `REST APIs`  
+`PHP` `Laravel` `Angular` `Ionic` `Node.js` `REST APIs`  
 
 **QA & Automatización**:  
 `Karate` `Playwright` `Postman` `SoapUI` `Agile/SCRUM`  
 
 **Herramientas**:  
-`Git` `MySQL` `WordPress` `Figma` `Docker` (learning)  
+`Git` `MySQL` `WordPress` 
 
 ---
 
