@@ -1,18 +1,18 @@
 # Hello, I'm Cristian Gaitano Ornia 👨‍💻
 
 ### **Full Stack Developer + QA Automation Engineer**  
-📍 Rosario, Argentina · 🌍 Global Remote Worker  
+ Rosario, Argentina ·  
 
 🔗 [LinkedIn](linkedin.com/in/cerge) · ✉️ [Email](mailto:cerge74@gmail.com) · 📱 [WhatsApp](https://wa.me/543416018226)  
 
 ---
 
-## **👨‍💻 About Me**  
+## ** About Me**  
 
-- 💡 **20+ years of experience** in full-stack development and QA automation  
-- 🚀 Specialized in: **Laravel, Angular, Karate/Playwright**  
-- 📊 Passionate about **process optimization** and reducing critical production errors  
-- ✨ **Mentorship**: I guide junior developers to elevate quality standards  
+-  **20+ years of experience** in full-stack development and QA automation  
+-  Specialized in: **Laravel, Angular, Karate/Playwright**  
+-  Passionate about **process optimization** and reducing critical production errors  
+-  **Mentorship**: I guide junior developers to elevate quality standards  
 
 ---
 
@@ -29,6 +29,23 @@
 ---
 
 # Technical IT Writer Portfolio
+
+## Recent Technical Publications (2025–2026)
+
+### SitePoint
+
+* [How I Built a Form Management Platform with Angular 17 and SurveyJS](https://www.sitepoint.com/form-management-with-survey-js/)
+  Analysis and implementation of a dynamic form-management platform using Angular 17 and SurveyJS.
+
+### DEV Community
+
+* [Top React Form Libraries in 2026: A Strategic Architecture Analysis](https://dev.to/cerge74_cbb3abeb75dde90f5/surveyjs-vs-react-hook-form-scaling-performance-and-long-term-maintenance-5abf)
+  Comparative analysis of React form architectures, scalability, performance, and long-term maintainability.
+
+* [Comparing Form Libraries for React](https://dev.to/cerge74_cbb3abeb75dde90f5/surveyjs-vs-other-react-form-libraries-a-strategic-architecture-analysis-32ge)
+  Architectural comparison between SurveyJS and modern React form ecosystems.
+
+---
 
 This repository contains examples and references from my work as a **Technical IT Writer** for technology publications and online training platforms between 2004 and 2006.
 
@@ -48,11 +65,11 @@ My articles focused on advanced topics in web application development, PHP, XML,
 - *The Future of the Web: RIAs, Ajax, Flex*
 - *Ajax — Architecture, Patterns, Frameworks* — Cover Article
 
-### 📚 Book Projects
+###  Book Projects
 - *Ajax con PHP, .NET and Java* (unpublished)
 - *El Gran Libro de la Programación* — Compilation of my best CODE articles
 
-### 🧭 Online Training (Dattatec.com)
+###  Online Training (Dattatec.com)
 Developed 8 complete modules on:
 - WAP/WML mobile web development  
 - XML fundamentals  
@@ -68,15 +85,15 @@ Developed 8 complete modules on:
   
 ---
 
-## **🌟 Passions**  
-📚 **Avid Bibliophile**: Maintain **3 personal libraries** (and counting!). Love reading about history, tech, and writing essays.  
-🪙 **Numismatics**: Collector of ancient coins (my favorite: a Roman denarius!)  
-🏛 **Ancient History**: Obsessed with Rome, Greece, and Egypt.  
-🎨 **Art**: From Renaissance to modern digital art.  
+## ** Passions**  
+ **Avid Bibliophile**: Maintain **3 personal libraries** (and counting!). Love reading about history, tech, and writing essays.  
+ **Numismatics**: Collector of ancient coins (my favorite: a Roman denarius!)  
+ **Ancient History**: Obsessed with Rome, Greece, and Egypt.  
+ **Art**: From Renaissance to modern digital art.  
 
 ---
 
-## **🌱 Currently Learning**  
+## ** Currently Learning**  
 - **Telegram bot development** with Python  
 - **Docker/Kubernetes** for orchestration  
 - **Hexagonal Architecture** in PHP  
@@ -89,21 +106,21 @@ Let's talk tech, books, or ancient coins!
 🔗 **Connect on**: [LinkedIn](linkedin.com/in/cerge)  
 ✉️ **Email**: cerge74@gmail.com  
 
-# Hola, soy Cristian Gaitano Ornia 👨‍💻
+# Hola, soy Cristian Gaitano Ornia 
 
 ### **Full Stack Developer + QA Automation Engineer**  
-📍 Rosario, Argentina · 🌍 Trabajo Remoto Global  
+ Rosario, Argentina · 
 
 🔗 [LinkedIn](linkedin.com/in/cerge) · ✉️ [Email](mailto:cerge74@gmail.com) · 📱 [WhatsApp](https://wa.me/543416018226)  
 
 ---
 
-## **👨‍💻 Sobre Mí**  
+## ** Sobre Mí**  
 
-- 💡 **20+ años de experiencia** en desarrollo full-stack y automatización de QA.  
-- 🚀 Especializado en: **Laravel, Angular, Karate/Playwright**.  
-- 📊 Me apasiona **optimizar procesos** y reducir errores críticos en producción.  
-- ✨ **Mentoría**: Guío a desarrolladores juniors para elevar estándares de calidad.  
+-  **20+ años de experiencia** en desarrollo full-stack y automatización de QA.  
+-  Especializado en: **Laravel, Angular, Karate/Playwright**.  
+-  Me apasiona **optimizar procesos** y reducir errores críticos en producción.  
+-  **Mentoría**: Guío a desarrolladores juniors para elevar estándares de calidad.  
 
 ---
 
@@ -120,6 +137,21 @@ Let's talk tech, books, or ancient coins!
 ---
 
 # Portafolio de Redacción Técnica en TI
+
+## Publicaciones Técnicas Recientes (2025–2026)
+
+### SitePoint
+
+* [How I Built a Form Management Platform with Angular 17 and SurveyJS](https://www.sitepoint.com/form-management-with-survey-js/)
+  Desarrollo y análisis de una plataforma dinámica de formularios utilizando Angular 17 y SurveyJS.
+
+### DEV Community
+
+* [Top React Form Libraries in 2026: A Strategic Architecture Analysis](https://dev.to/cerge74_cbb3abeb75dde90f5/surveyjs-vs-react-hook-form-scaling-performance-and-long-term-maintenance-5abf)
+  Análisis comparativo de arquitecturas de formularios React, escalabilidad, rendimiento y mantenimiento a largo plazo.
+
+* [Comparing Form Libraries for React](https://dev.to/cerge74_cbb3abeb75dde90f5/surveyjs-vs-other-react-form-libraries-a-strategic-architecture-analysis-32ge)
+  Comparativa arquitectónica entre SurveyJS y el ecosistema moderno de formularios React.
 
 Este repositorio reúne ejemplos y referencias de mi trabajo como **Redactor Técnico en Tecnología de la Información**, realizado entre 2004 y 2006 para publicaciones especializadas y plataformas de formación online.
 
@@ -139,11 +171,11 @@ Mis artículos abordaron temas avanzados de desarrollo web, PHP, XML, Ajax y tec
 - *El futuro de la web: RIAs, Ajax, Flex*
 - *Ajax — Arquitectura, patrones y frameworks* — Artículo de tapa
 
-### 📚 Proyectos de Libros
+###  Proyectos de Libros
 - *Ajax con PHP, .NET y Java* (inédito)
 - *El Gran Libro de la Programación* — Compilación de mis mejores artículos en CODE
 
-### 🧭 Formación Online (Dattatec.com)
+###  Formación Online (Dattatec.com)
 Autor de 8 módulos completos sobre:
 - Desarrollo móvil con WAP/WML  
 - Fundamentos de XML  
@@ -161,15 +193,15 @@ Autor de 8 módulos completos sobre:
 *Artículo de portada sobre rendimiento, seguridad, interoperabilidad y la evolución de PHP. Publicado en la revista CODE (2005).*
 
 ---
-## **🌟 Pasiones**  
-📚 **Bibliófilo extremo**: Tengo **3 bibliotecas** en casa (¡y contando!). Amo leer sobre historia, tecnología y escribir ensayos.  
-🪙 **Numismática**: Colecciono monedas antiguas (¡mi favorita: un denario romano!).  
-🏛 **Historia Antigua**: Obsesionado con Roma, Grecia y Egipto.  
-🎨 **Arte**: Desde el Renacimiento hasta el arte digital moderno.  
+## ** Pasiones**  
+ **Bibliófilo extremo**: Tengo **3 bibliotecas** en casa (¡y contando!). Amo leer sobre historia, tecnología y escribir ensayos.  
+ **Numismática**: Colecciono monedas antiguas (¡mi favorita: un denario romano!).  
+ **Historia Antigua**: Obsesionado con Roma, Grecia y Egipto.  
+ **Arte**: Desde el Renacimiento hasta el arte digital moderno.  
 
 ---
 
-## **🌱 Aprendiendo Ahora**
+## ** Aprendiendo Ahora**
 - **Creacion de bots con Python** en Telegram.
 - **Docker/Kubernetes** para orquestación.  
 - **Arquitectura Hexagonal** en PHP.  
