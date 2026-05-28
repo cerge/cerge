@@ -11,7 +11,7 @@
 
 -  **20+ years of experience** in full-stack development and QA automation  
 -  Specialized in: **Laravel, Angular, Karate/Playwright**  
--  Passionate about **process optimization** and reducing critical production errors  
+-  Focused on software quality, backend validation, architecture analysis and reducing production issues. 
 -  **Mentorship**: I guide junior developers to elevate quality standards  
 
 ---
@@ -85,13 +85,6 @@ Developed 8 complete modules on:
   
 ---
 
-## ** Passions**  
- **Avid Bibliophile**: Maintain **3 personal libraries** (and counting!). Love reading about history, tech, and writing essays.  
- **Numismatics**: Collector of ancient coins (my favorite: a Roman denarius!)  
- **Ancient History**: Obsessed with Rome, Greece, and Egypt.  
- **Art**: From Renaissance to modern digital art.  
-
----
 
 ## ** Currently Learning**  
 - **Telegram bot development** with Python  
@@ -119,7 +112,7 @@ Let's talk tech, books, or ancient coins!
 
 -  **20+ años de experiencia** en desarrollo full-stack y automatización de QA.  
 -  Especializado en: **Laravel, Angular, Karate/Playwright**.  
--  Me apasiona **optimizar procesos** y reducir errores críticos en producción.  
+-  Enfocado en calidad de software, validación backend, análisis arquitectónico y reducción de errores en producción. 
 -  **Mentoría**: Guío a desarrolladores juniors para elevar estándares de calidad.  
 
 ---
@@ -192,12 +185,7 @@ Autor de 8 módulos completos sobre:
 
 *Artículo de portada sobre rendimiento, seguridad, interoperabilidad y la evolución de PHP. Publicado en la revista CODE (2005).*
 
----
-## ** Pasiones**  
- **Bibliófilo extremo**: Tengo **3 bibliotecas** en casa (¡y contando!). Amo leer sobre historia, tecnología y escribir ensayos.  
- **Numismática**: Colecciono monedas antiguas (¡mi favorita: un denario romano!).  
- **Historia Antigua**: Obsesionado con Roma, Grecia y Egipto.  
- **Arte**: Desde el Renacimiento hasta el arte digital moderno.  
+
 
 ---
 
