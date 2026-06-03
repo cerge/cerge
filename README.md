@@ -3,7 +3,7 @@
 ### **Full Stack Developer + QA Automation Engineer**  
  Rosario, Argentina ·  
 
-🔗 [LinkedIn](linkedin.com/in/cerge) · ✉️ [Email](mailto:cerge74@gmail.com) · 📱 [WhatsApp](https://wa.me/543416018226)  
+🔗 [LinkedIn](linkedin.com/in/cerge) · ✉️ [Email](mailto:cerge74@gmail.com)  
 
 ---
 
